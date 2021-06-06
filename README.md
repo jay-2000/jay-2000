@@ -1,5 +1,10 @@
 ### Hi there :technologist:	 👋
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
+
 - 🔭 I’m currently working on Frontend **Web DEV skills**
 - 🌱 I’m currently learning **JS** and its **libraries** and **frameworks**
 - 👯 I’m looking to collaborate on JS Beginners and intermediate projects
