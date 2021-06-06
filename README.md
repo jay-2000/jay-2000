@@ -7,4 +7,6 @@
 - 💬 Ask me about HTML5, CSS3
 - 📫 How to reach me: E-mail = (jayparmar7654321@gmail.com)
 - checkout my work below :point_down: :point_down: :point_down:
+- http://github.com - automatic!
+[GitHub](http://github.com)
 
