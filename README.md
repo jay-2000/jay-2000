@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Frontend **Web DEV**
+- 🔭 I’m currently working on Frontend **Web DEV skills**
 - 🌱 I’m currently learning **JS** and its **libraries** and **frameworks**
 - 👯 I’m looking to collaborate on JS Beginners and intermediate projects
 - 🤔 I’m looking for help with Advance frontend stack
