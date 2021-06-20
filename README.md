@@ -20,9 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_jaystwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jaystwt" height="30" width="40" /></a>
-
- <a href="https://linkedin.com/in/jay-parmar-3755501a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-parmar-3755501a1" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/jay-parmar-3755501a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-parmar-3755501a1" height="30" width="40" /></a>
 <a href="mailto:jayparmar7654321@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="jayparmar7654321@gmail.com" height="30" width="40" /></a>
 </p>
 
