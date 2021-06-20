@@ -1,38 +1,36 @@
-### Hi there :technologist:	 👋
+<h1 align="center">Hi 👋, I'm Jay Parmar</h1>
+<h3 align="center">A passionate Budding Web developer from India</h3>
 
-As Kanye West said:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-2000&label=Profile%20views&color=0e75b6&style=flat" alt="jay-2000" /> </p>
 
-> We're living the future so
-> the present is our past.
+<p align="left"> <a href="https://twitter.com/_jaystwt" target="blank"><img src="https://img.shields.io/twitter/follow/_jaystwt?logo=twitter&style=for-the-badge" alt="_jaystwt" /></a> </p>
 
-- 🔭 I’m currently working on Frontend **Web DEV skills** :computer:	
-- 🌱 I’m currently learning **JS** and its **libraries** and **frameworks**
-- 👯 I’m looking to collaborate on JS Beginners and intermediate projects
-- 🤔 I’m looking for help with Advance frontend stack
-- 💬 Ask me about HTML5, CSS3
-- 📫 How to reach me: [E-mail](mailto:jayparmar7654321@gmail.com)  |  [LinkedIN](https://www.linkedin.com/in/jay-parmar-3755501a1/)  |  [Twitter](https://twitter.com/_Jaystwt)
+- 🔭 I’m currently working on **Frontend Web DEV skills 💻**
 
-<br/>
+- 🌱 I’m currently learning **JS and its libraries and frameworks**
 
+- 👯 I’m looking to collaborate on **JS Beginners and intermediate projects**
 
-### connect with me on :
+- 🤝 I’m looking for help with **Advance frontend Web stack**
 
-[<img align="left" alt="Jay parmar | E-Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][E-mail]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIN]
-[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
- 
- ### Skills and Programming Languages
- 
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][LinkedIN]
- 
- <br />
- <br />
- 
-[E-mail]: mailto:jayparmar7654321@gmail.com
-[LinkedIN]: https://www.linkedin.com/in/jay-parmar-3755501a1/
-[Twitter]: https://twitter.com/_Jaystwt
-[GitHub]: https://github.com/jay-2000
+- 💬 Ask me about **HTML5, CSS3**
 
+- 📫 How to reach me **[E-mail](mailto:jayparmar7654321@gmail.com)**
 
-- checkout my work below :point_down: :point_down: :point_down:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/_jaystwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_jaystwt" height="30" width="40" /></a>
+
+ <a href="https://linkedin.com/in/jay-parmar-3755501a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jay-parmar-3755501a1" height="30" width="40" /></a>
+
+<a href="mailto:jayparmar7654321@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="jayparmar7654321@gmail.com" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jay-2000&show_icons=true&locale=en&layout=compact" alt="jay-2000" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-2000&show_icons=true&locale=en" alt="jay-2000" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-2000&" alt="jay-2000" /></p>
