@@ -1,5 +1,5 @@
 ![MasterPiece](https://media-exp1.licdn.com/dms/image/C4D16AQGFaG1Ss-XOIA/profile-displaybackgroundimage-shrink_350_1400/0/1624196936791?e=1629936000&v=beta&t=YRIG2mdkTsFxai7bfyeGnBs5bQ4lBNXv9CFXEXOjZuk)
-<h1 align="center">Hi 👋, I'm Jay Parmar</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Jay Parmar</h1>
 <h3 align="center">A passionate Budding Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-2000&label=Profile%20views&color=0e75b6&style=flat" alt="jay-2000" /> </p>
