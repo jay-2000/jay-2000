@@ -1,9 +1,9 @@
 ![MasterPiece](https://media-exp1.licdn.com/dms/image/C4D16AQGFaG1Ss-XOIA/profile-displaybackgroundimage-shrink_350_1400/0/1624196936791?e=1629936000&v=beta&t=YRIG2mdkTsFxai7bfyeGnBs5bQ4lBNXv9CFXEXOjZuk)
-<h1 align="center">Hi <img width="30px" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">, I'm Jay Parmar</h1>
+<h1 align="center">Hi <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Jay Parmar</h1>
 <h3 align="center">A passionate Budding Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-2000&label=Profile%20views&color=0e75b6&style=flat" alt="jay-2000" /> </p>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2344801/screenshots/4774578/alphatestersanimation2.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 <p align="left"> <a href="https://twitter.com/_jaystwt" target="blank"><img src="https://img.shields.io/twitter/follow/_jaystwt?logo=twitter&style=for-the-badge" alt="_jaystwt" /></a> </p>
 
