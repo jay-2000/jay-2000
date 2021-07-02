@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **HTML5, CSS3**
 
-- 📫 How to reach me **[E-mail](mailto:jayparmar7654321@gmail.com)**    [Website](https://jay-2000.github.io/portfolio/)
+- 📫 How to reach me **[E-mail](mailto:jayparmar7654321@gmail.com)**  ,  **[My Website](https://jay-2000.github.io/portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
