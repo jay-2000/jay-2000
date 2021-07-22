@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Frontend Web DEV skills 💻**
+- 🔭 I’m currently working as an **Opensource contributer at LGM-SOC'21 AND DCP'21(DevIncept) 💻**
 
 - 🌱 I’m currently learning **JS and its libraries and frameworks**
 
