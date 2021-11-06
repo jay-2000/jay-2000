@@ -1,4 +1,4 @@
-![MasterPiece](https://media-exp1.licdn.com/dms/image/C4D16AQGFaG1Ss-XOIA/profile-displaybackgroundimage-shrink_350_1400/0/1624196936791?e=1635984000&v=beta&t=wKOfAXBN8JYwnHwYUkm_GjosJ8Y1p6TFnrGmy-c8T_Q)
+![MasterPieceBanner](https://media-exp1.licdn.com/dms/image/C4D16AQGFaG1Ss-XOIA/profile-displaybackgroundimage-shrink_350_1400/0/1624196936791?e=1641427200&v=beta&t=S96BLu2I801O76JSZ4zOjR93uvvKQoobZALXVBDKzqw)
 <h1 align="center">Hi <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Jay Parmar</h1>
 <h3 align="center">A passionate Budding Web Engineer from India</h3>
 
