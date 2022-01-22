@@ -1,4 +1,4 @@
-![MasterPieceBanner](https://media-exp1.licdn.com/dms/image/C4D16AQGFaG1Ss-XOIA/profile-displaybackgroundimage-shrink_350_1400/0/1624196936791?e=1641427200&v=beta&t=S96BLu2I801O76JSZ4zOjR93uvvKQoobZALXVBDKzqw)
+![MasterPieceBanner](/linkedin_Banner.jfif)
 <h1 align="center">Hi <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Jay Parmar</h1>
 <h3 align="center">A passionate Budding Web Engineer from India</h3>
 
