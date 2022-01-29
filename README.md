@@ -1,4 +1,4 @@
-![MasterPiece Banner](https://github.com/jay-2000/jay-2000/blob/main/linkedinBanner.jfif)
+![MasterPiece Banner](https://github.com/jay-2000/jay-2000/blob/main/linkedinBanner-_1_.png)
 <h1 align="center">Hi <img width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Jay Parmar</h1>
 <h3 align="center">A passionate Budding Web Engineer from India</h3>
 
