@@ -12,7 +12,7 @@
   
 - 🔭 I was an **Opensource contributer at LGM-SOC'21 AND DCP'21(DevIncept) 💻**
 
-- 🌱 I’m currently learning **Docker as well as DevOps stuff, JS and its libraries and frameworks**
+- 🌱 I’m currently learning **Docker and interested in DevOps stuff, JS and its libraries and frameworks**
 
 - 👯 I’m looking to collaborate on **JS Beginners and intermediate projects**
 
