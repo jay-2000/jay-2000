@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Flutter, Docker and interested in DevOps stuff, JS and its libraries and frameworks**
 
-- 👯 I’m looking to collaborate on **JS Beginners and intermediate projects**
+- 👯 I’m looking to collaborate on **JS Beginners and intermediate projects** and also commited to **100 Days of Code**
 
 - 🤝 I’m looking for help with **Advance frontend Web stack**
 
