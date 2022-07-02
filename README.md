@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Advance frontend Web stack**
 
-- 💬 Ask me about **HTML5, CSS3**
+- 💬 Ask me about **web**
 
 - 📫 How to reach me **[E-mail](mailto:jayparmar7654321@gmail.com)**  ,  **[My Website](https://jayparmar.netlify.app/)**
 
