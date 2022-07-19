@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/_jaystwt" target="blank"><img src="https://img.shields.io/twitter/follow/_jaystwt?logo=twitter&style=for-the-badge" alt="_jaystwt" /></a> </p>
 
 
-- 🔭 I’m currently working as an **Opensource contributer at SWOC'21**
+- 🔭 I’m currently working as an **Opensource contributer at @naas**
   
 - 🔭 I was an **Opensource contributer at LGM-SOC'21 AND DCP'21(DevIncept) 💻**
 
