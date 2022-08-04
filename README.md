@@ -42,6 +42,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-2000&" alt="jay-2000" /></p>
 
-<summary>:chart_with_upwards_trend: Contribution Graph </summary>
-   <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=jay-2000&theme=xcode" alt="Contribution Graph" align="center" />
