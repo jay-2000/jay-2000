@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/_jaystwt" target="blank"><img src="https://img.shields.io/twitter/follow/_jaystwt?logo=twitter&style=for-the-badge" alt="_jaystwt" /></a> </p>
 
 
-- 🔭 An **Opensource contributer at @[Jupyter Naas](https://github.com/jupyter-naas)**
+-  An **Opensource contributer at @[Jupyter Naas](https://github.com/jupyter-naas)**
   
 - 🔭 Previously I was an **Opensource contributer at [LGM-SOC'21](https://www.linkedin.com/posts/jay-parmar-3755501a1_letsgrowmore-summer-of-code-activity-6832358316698566656-iTnI) AND [DCP'21(DevIncept)](https://www.linkedin.com/posts/jay-parmar-3755501a1_hello-folks-im-glad-to-share-that-ive-activity-6836637126256300032-0XS_) 💻**
 
