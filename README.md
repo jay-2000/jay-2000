@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **web**
 
-- 💬 Araa of interest **DevOps, Web2, Web3**
+- 💬 Area of interest **DevOps, Web2, Web3**
 
 - 📫 How to reach me **[E-mail](mailto:jayparmar7654321@gmail.com)**  ,  **[My Website](https://jayparmar.netlify.app/)**
 
