@@ -12,7 +12,7 @@
   
 - 🔭 Previously I was an **Opensource contributer at [LGM-SOC'21](https://www.linkedin.com/posts/jay-parmar-3755501a1_letsgrowmore-summer-of-code-activity-6832358316698566656-iTnI) AND [DCP'21(DevIncept)](https://www.linkedin.com/posts/jay-parmar-3755501a1_hello-folks-im-glad-to-share-that-ive-activity-6836637126256300032-0XS_) And [SWOC(script winter of code](#)💻**
 
-- 🌱 I’m currently learning **Docker and interested in kubernetes/DevOps stuff, JS and its libraries and frameworks**
+- 🌱 I’m currently learning **Docker and interested in kubernetes/DevOps stuff, JS, its libraries and frameworks**
 
 - 👯 I’m looking to collaborate on **JS Beginners and intermediate projects** and also commited to **100 Days of Code**
 
