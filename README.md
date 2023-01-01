@@ -1,6 +1,6 @@
 ![MasterPiece Banner](https://github.com/jay-2000/jay-2000/blob/main/linkedinBanner.png)
 <h1 align="center">Hi <img width="35px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Jay Parmar</h1>
-<h3 align="center">OpenSource - Web Dev - DevOps</h3>
+<h3 align="center">OpenSource - Communities - Web Dev - DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-2000&label=Profile%20views&color=0e75b6&style=flat" alt="jay-2000" /> </p>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
