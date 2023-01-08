@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Docker and interested in kubernetes/DevOps stuff, JS, its libraries and frameworks**
 
-- 👯 I’m looking to collaborate on **JS Beginners and intermediate projects** and also commited to **100 Days of Code**
+- 👯 I’m looking to collaborate on **JS and intermediate projects** and also commited to **100 Days of Code**
 
 - 🤝 I’m looking for help with **Advance frontend Web stack**
 
