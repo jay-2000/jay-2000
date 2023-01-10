@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/_jaystwt" target="blank"><img src="https://img.shields.io/twitter/follow/_jaystwt?logo=twitter&style=for-the-badge" alt="_jaystwt" /></a> </p>
 
 
-- Founded - [IDC](https://linktr.ee/ingenious_devs)
+- Founder - [IDC](https://linktr.ee/ingenious_devs)
 
 -  An **Opensource contributer at @[Jupyter Naas](https://github.com/jupyter-naas)**
   
