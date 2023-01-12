@@ -20,7 +20,7 @@
 
 - 🤝 I’m looking for help with **Advance frontend Web stack**
 
-- 💬 Ask me about **web**
+- 💬 Ask me about **web Dev**
 
 - 💬 Area of interest **DevOps, Web2, Web3**
 
