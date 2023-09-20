@@ -7,7 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/_jaystwt" target="blank"><img src="https://img.shields.io/twitter/follow/_jaystwt?logo=twitter&style=for-the-badge" alt="_jaystwt" /></a> </p>
 
-
+- Engineer - [Trent Limited - A Tata Enterprise](https://trentlimited.com/)
+  
 - Founder - [IDC](https://linktr.ee/ingenious_devs)
 
 -  An **Opensource contributer at @[Jupyter Naas](https://github.com/jupyter-naas)**
@@ -16,11 +17,7 @@
 
 - 🌱 I’m currently learning **Docker and interested in kubernetes,Ansible & DevOps stuff, JS, its libraries and frameworks**
 
-- 👯 I’m looking to collaborate on **JS and intermediate and advance projects** and also commited to **100 Days of Code**
-
-- 🤝 I’m looking for help with **Advance frontend Web stack**
-
-- 💬 Ask me about **web Dev**
+- 💬 Ask me about **web Dev, SQL**
 
 - 💬 Area of interest **DevOps, Web2, Web3**
 
