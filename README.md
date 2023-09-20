@@ -31,7 +31,6 @@
 <a href="https://medium.com/@jayparmar7654321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jayparmar7654321" height="30" width="40" /></a>
 </p>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 
 <h3 align="left">Languages and Tools:</h3>
