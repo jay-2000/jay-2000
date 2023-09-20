@@ -41,5 +41,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jay-2000&show_icons=true&locale=en" alt="jay-2000" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-2000" alt="jay-2000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jay-2000&" alt="jay-2000" /></p>
 
