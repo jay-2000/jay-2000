@@ -8,8 +8,6 @@
 <p align="left"> <a href="https://twitter.com/_jaystwt" target="blank"><img src="https://img.shields.io/twitter/follow/_jaystwt?logo=twitter&style=for-the-badge" alt="_jaystwt" /></a> </p>
 
 - Engineer - [Trent Limited - A Tata Enterprise](https://trentlimited.com/)
-  
-- Founder - [IDC](https://linktr.ee/ingenious_devs)
 
 -  **Opensource @[Jupyter Naas](https://github.com/jupyter-naas)**
   
