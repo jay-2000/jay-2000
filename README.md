@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0AFFEF&center=true&vCenter=true&width=900&lines=Jay+Parmar+-+Senior+DevSecOps+Engineer;AWS+EKS+%7C+Terraform+%7C+Kubernetes+%7C+CI%2FCD;DevSecOps+%7C+Monitoring+%7C+Automation+Expert;99.99%+Uptime+DevOps+@+Trent+(TATA+Enterprise);Open+to+DevOps+Roles+in+Mumbai+%2F+Remote" />
+</p>
+<!-- 00C2FF -->
+
 <h1 align="center">
   Hi <img width="35px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Jay Parmar
 </h1>
