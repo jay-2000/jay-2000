@@ -1,10 +1,8 @@
-![MasterPiece Banner](https://github.com/jay-2000/jay-2000/blob/main/linkedinBanner.png)
-
 <h1 align="center">
   Hi <img width="35px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Jay Parmar
 </h1>
 <h3 align="center">
-  🚀 Senior DevSecOps & Site Reliability Engineer • AWS • Kubernetes • Terraform • CI/CD • Securit• Open Source • Communities • DevRel • Engineer • Web Dev
+  🚀 DevSecOps & Site Reliability Engineer • AWS • Kubernetes • Terraform • CI/CD • Security • Open Source • Communities • DevRel • Engineer • Web Dev
 </h3>
 
 <p align="center">
