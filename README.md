@@ -41,7 +41,6 @@ I also build **real DevOps projects** to practice and teach production-ready set
 - DevOps (AWS, Docker, Kubernetes, Terraform, Jenkin, ArgoCD, Ansible)
 - JavaScript & Frameworks
 - Web2 & Web3
-- SQL
 - Community and Developer Relations
 
 ---
@@ -70,29 +69,8 @@ I also build **real DevOps projects** to practice and teach production-ready set
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <!-- MongoDB -->
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</a>
 
-<!-- Express.js -->
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</a>
-
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-</a>
-
-<!-- Node.js -->
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</a>
+<img src="https://skillicons.dev/icons?i=java,c,html,css,js,mongodb,express,react,nodejs" />
 
 </p>
 
@@ -101,28 +79,44 @@ I also build **real DevOps projects** to practice and teach production-ready set
 
 <p align="center">
 
-<!-- Cloud -->
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-<br/>
+<!-- CLOUD -->
+<b>☁️ Cloud Platforms</b><br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,digitalocean" />
+<br/><br/>
 
-<!-- Containers -->
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
-<br/>
+<!-- CONTAINERS -->
+<b>🐳 Containers & Orchestration & server</b><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx" />
+<br/><br/>
 
-<!-- Infrastructure as Code -->
-<img src="https://skillicons.dev/icons?i=terraform,ansible,bash,powershell" />
-<br/>
+<!-- IaC -->
+<b>🏗️ Infrastructure as Code</b><br/>
+<img src="https://skillicons.dev/icons?i=terraform,ansible,bash,powershell,python" />
+<br/><br/>
 
 <!-- CI/CD -->
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git" />
-<br/>
+<b>🔁 CI/CD & GitOps</b><br/>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,git,gitlab,bitbucket" />
+<br/><br/>
 
-<!-- Monitoring & Logging -->
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana" />
-<br/>
+<!-- MONITORING -->
+<b>📊 Monitoring & Logging</b><br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+<br/><br/>
 
-<!-- Systems -->
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,python,mysql,postgres" />
+<!-- SECURITY -->
+<b>🔐 DevSecOps</b><br/>
+<img src="https://img.shields.io/badge/Trivy-Container_Scanning-red?logo=trivy"/>
+<img src="https://img.shields.io/badge/SonarQube-Code_Security-black?logo=sonarqube"/>
+<img src="https://img.shields.io/badge/AWS_ECR-Image_Registry-orange?logo=amazonaws"/>
+<img src="https://img.shields.io/badge/OWASP-Security-blue"/>
+<br/><br/>
+
+<!-- SYSTEMS -->
+<b>💻 Operating Systems & DB</b><br/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,windows,mysql,postgres,redis" />
+<br/><br/>
+
 
 </p>
 
