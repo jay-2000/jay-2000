@@ -4,7 +4,7 @@
   Hi <img width="35px" height="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif">, I'm Jay Parmar
 </h1>
 <h3 align="center">
-  🚀 Web Dev • Open Source • Communities • DevRel • Engineer • DevOps
+  🚀 DevOps • Open Source • Communities • DevRel • Engineer • Web Dev
 </h3>
 
 <p align="center">
@@ -17,15 +17,15 @@
 
 ### 💼 Current Roles & Key Contributions
 
-- 💼 **Engineer:** [Trent Limited — A Tata Enterprise](https://trentlimited.com/)
+- 💼 **DevOps Engineer:** [Trent Limited — A Tata Enterprise](https://trentlimited.com/)
 - 🌐 **Open Source Contributor:** [Jupyter Naas](https://github.com/jupyter-naas)
 - 💻 **Past Programs:** LGM-SOC'21, DCP'21 (DevIncept), SWOC (Script Winter of Code)
 
 ---
 
-### 🌱 Learning & Interests
+### 🌱 Technology & Interests
 
-- DevOps (Docker, Kubernetes, Ansible)
+- DevOps (AWS, Docker, Kubernetes, Terraform, Jenkin, ArgoCD, Ansible)
 - JavaScript & Frameworks
 - Web2 & Web3
 - SQL
